@@ -1,5 +1,3 @@
-
-
 *{
   padding: 0px;
   margin: 0px;
@@ -10,7 +8,7 @@
 }
 body{
    width: 970px;
-   height: 2000px;
+   height: auto;
    background-color: #DDDFD4;
 }
 .container{
