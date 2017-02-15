@@ -1,3 +1,5 @@
+
+
 *{
   padding: 0px;
   margin: 0px;
@@ -8,16 +10,16 @@
 }
 body{
    width: 970px;
-   height: 730px;
+   height: 800px;
    background-color: #DDDFD4;
+   padding: 15px;
 }
 .container{
  margin: 20px auto;
- width: 900px;
+ width: 95%;
  height: 730px;
  padding: 15px;
  background-color:#FAE596;
-
 }
 
 
@@ -147,7 +149,6 @@ div p:nth-child(2){
 
 /* FOOTER */
 
-
 footer{
   width: 930px;
   height: auto;
@@ -155,15 +156,6 @@ footer{
   padding: 40px 0;
   text-align: center;
   background-color: #3FB0AC;
-
+  margin-bottom: 20px;
 }
 
-
-
-/*
-colors:
-gray: #DDDFD4
-blue:#3FB0AC
-yellow:#FAE596
-green: #173F43
-*/
